@@ -1,0 +1,42 @@
+{
+   "new":[
+              {
+               "title":"task1",
+               "task":"you have to take your resonsiblities ",
+               "assTo":"vinay"
+              },
+              {
+               "title":"task2",
+               "task":"otherwise there is no going away from this hell hole ",
+               "assTo":"vinay"
+              }
+      ],
+  "pending":[
+              {
+               "title":"task1",
+               "task":"you have to take your resonsiblities ",
+               "assTo":"vinay",
+               "reason":" I am irresponsible"  
+              },
+              {
+               "title":"task2",
+               "task":"otherwise there is no going away from this hell hole ",
+               "assTo":"vinay",
+               "reason":"looks like it buddy"        
+              }
+      ],
+  "closed":[
+              {
+               "title":"task1",
+               "task":"you have to take your resonsiblities ",
+               "assTo":"vinay",
+               "resolution":"Changed my ways and I came through ! As always :p"  
+              },
+              {
+               "title":"task2",
+               "task":"otherwise there is no going away from this hell hole ",
+               "assTo":"vinay",
+               "resolution":"diving in the web now"        
+              }
+      ]         
+       }

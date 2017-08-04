@@ -1,0 +1,115 @@
+.header{
+    text-align: center;
+    background-color:rgba(54, 5, 93, 0.59);
+    font-family:sans-serif;
+    padding-top: .3px;
+    padding-bottom: .5px;
+    color: white;    
+}
+
+
+.new-default{
+     background-color:#b73138;
+     color: white; 
+}
+
+.new-edit{
+   margin-left: 50%;  
+   background-color:#b73138;
+   color: white;   
+}
+
+
+.pending-edit{
+   margin-left: 65%;  
+   background-color:#03829c;
+   color: white;   
+}
+
+.pending-btn{
+   background-color:#03829c;
+   color: white;   
+}
+
+.close-edit{
+   margin-left: 75%;  
+   background-color:#0b6b1f;
+   color: white;   
+}
+
+
+.pending-reason{
+    text-decoration: underline;
+    font-weight: 600;
+    
+    
+}
+
+.modal-header{
+    background-color: #1bc58d;
+    color: white;
+}
+
+.left-submit-button{
+    float: left;
+}
+
+.btn-warning{
+    float:right;
+}
+
+.form-group{
+    margin: 1em;
+}
+
+.assigned-to{
+  margin-top: 1em;
+    text-decoration: underline;
+}
+.task-heading{
+    display: inline-block;
+}
+
+.red{
+        background-color: #d05551;
+        border-color: #311616;
+        color: white;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.blue{
+     background-color:#5bc0de;
+        border-color: #311616;
+        color: white;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    
+}
+
+.green{
+      background-color:#5cb85c;
+        border-color: #311616;
+        color: white;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    
+}
+
+.add{
+    background-color: rgba(185, 40, 96, 0.97);
+    display: inline-block;
+    float: right;    
+    color: white;
+}
+
+body{
+   background-color: #293d44;
+}
+
+
+.card-header{
+    padding: .75rem 1.25rem;
+    color: white;
+    margin-bottom: 0;
+    background-color:rgb(38, 95, 125);
+    border: 1px solid rgba(0,0,0,.125);
+    text-align: center;    
+}
